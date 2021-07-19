@@ -1,0 +1,39 @@
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.col{
+    color: cornflowerblue;
+}
+.BC{
+    color: goldenrod;
+    
+}
+.TEXT OF BC{
+    font-family: cursive;
+}
+section{
+    display: flex;
+    padding-left: 5%;
+}
+.adha{
+    width: 50%;
+}
+.adha img{
+    width: 80%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(0, 183, 255),rgb(9, 255, 0));
+    padding: 10px;50px;
+    color:white;
+    font-weight: 800;
+    border-radius:5px;
+    
+}
+.top-benar{
+    background-image:url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+body{
+    margin: 0%;
+}
