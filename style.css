@@ -11,7 +11,7 @@ h1{
 .TEXT OF BC{
     font-family: cursive;
 }
-section{
+.top-benar{
     display: flex;
     padding-left: 5%;
 }
@@ -29,6 +29,7 @@ section{
     font-weight: 800;
     border-radius:5px;
     
+    
 }
 .top-benar{
     background-image:url(images/top-banner.png);
@@ -36,4 +37,18 @@ section{
 }
 body{
     margin: 0%;
+}
+.secend-2{
+    display: flex;
+    padding-left: 5%;
+    padding-top: 5%;
+    background-image: url(images/111.png);
+    background-repeat:no-repeat ;
+    background-position: right;
+}
+.d img{
+    width: 80%
+}
+.font2{
+    width: 100%
 }
