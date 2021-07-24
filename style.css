@@ -51,6 +51,7 @@ body{
 }
 .font2{
     width: 100%
+
 }
 .flaxi{display: flex;
     padding-bottom: 5%;
@@ -73,6 +74,8 @@ body{
     border-left: 7px solid;
     border-image: linear-gradient(blue, rgb(0, 255, 42));
     border-image-slice:1 ;
+    
+    ;
 }
 #bord2{
     border-left: 7px solid;
@@ -81,4 +84,9 @@ body{
 }
 footer p {
     text-align: center;
+}
+.HB{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(211, 167, 55);
+    font-size: 40px;
 }
