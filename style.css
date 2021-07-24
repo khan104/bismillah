@@ -52,3 +52,33 @@ body{
 .font2{
     width: 100%
 }
+.flaxi{display: flex;
+    padding-bottom: 5%;
+    background-image: url(images/222.png);
+    background-repeat: no-repeat;
+    background position: left;
+    text align: justify;
+}
+.fifty{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    box-shadow:10px 10px 30px gray; 
+    border-radius: 5%;
+    
+
+}
+#bord{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, rgb(0, 255, 42));
+    border-image-slice:1 ;
+}
+#bord2{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, rgb(0, 255, 42));
+    border-image-slice:1 ; 
+}
+footer p {
+    text-align: center;
+}
